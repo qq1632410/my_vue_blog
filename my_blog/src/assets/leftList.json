@@ -1,0 +1,25 @@
+[
+  {
+    "name":"首页",
+    "id":1,
+    "path":"/home"
+  },
+  {
+    "name":"关于",
+    "id":2,
+    "path":"/about"
+  },{
+    "name":"登陆",
+    "id":3,
+    "path":"/login"
+  },{
+    "name":"管理",
+    "id":4,
+    "path":"/manage"
+  },
+  {
+    "name":"写文章",
+    "id":5,
+    "path":"/write/-1"
+  }
+]
