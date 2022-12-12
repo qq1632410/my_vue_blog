@@ -12,7 +12,7 @@
     "content-disposition": "^0.5.3",
     "core-js": "^3.6.5",
     "element-ui": "^2.13.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "marked": "^1.0.0",
     "nodemon": "^2.0.3",
     "vue": "^2.6.11",
